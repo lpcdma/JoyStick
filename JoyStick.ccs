@@ -1,0 +1,13 @@
+<Solution>
+  <PropertyGroup Name="JoyStick" Version="2.3.2.3" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Image Name="HelloWorld.png" />
+        <Image Name="joystick_bg.png" />
+        <Image Name="joystick_center.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
